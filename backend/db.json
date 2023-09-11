@@ -1,0 +1,22 @@
+{
+  "pensamentos": [
+    {
+      "id": 1,
+      "conteudo": "Que bom que você veio",
+      "autoria": "Nfdeveloper",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 2,
+      "conteudo": "Estudando Angular",
+      "autoria": "Dev NfDeveloper Company",
+      "modelo": "modelo2"
+    },
+    {
+      "id": 3,
+      "conteudo": "Testando Função de Editar",
+      "autoria": "Nfdeveloper editade",
+      "modelo": "modelo2"
+    }
+  ]
+}
