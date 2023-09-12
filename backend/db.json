@@ -17,6 +17,30 @@
       "conteudo": "Testando Função de Editar",
       "autoria": "Nfdeveloper editade",
       "modelo": "modelo2"
+    },
+    {
+      "conteudo": "Aprendendo Angular com Alura",
+      "autoria": "Novo Autor",
+      "modelo": "modelo2",
+      "id": 4
+    },
+    {
+      "conteudo": "Serei um desenvolvedor com Angular e .Net",
+      "autoria": "Desenvolvedor .Net Angular",
+      "modelo": "modelo1",
+      "id": 5
+    },
+    {
+      "conteudo": "Serei um programador Home Office",
+      "autoria": "Eu mesmo",
+      "modelo": "modelo3",
+      "id": 6
+    },
+    {
+      "conteudo": "Serei um diácono",
+      "autoria": "NIlton Filho",
+      "modelo": "modelo3",
+      "id": 7
     }
   ]
 }
